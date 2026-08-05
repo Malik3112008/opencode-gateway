@@ -1,0 +1,9 @@
+node_modules/
+dist/
+cookies.txt
+gateway.config.json
+usage.json
+history.jsonl
+events.jsonl
+*.log
+.env

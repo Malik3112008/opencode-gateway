@@ -6,4 +6,5 @@ usage.json
 history.jsonl
 events.jsonl
 *.log
-.env
+.env*.bak-*
+gateway.config.json.bak-*
